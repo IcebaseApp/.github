@@ -27,7 +27,7 @@ Here at Icebase Technologies, we release apps designed for your products and sof
 
 🚫 **No tracking** data is collected from you. [Learn more](https://github.com/)
 
-💰 **Free-to-start** so you can enjoy necessary features for free without having to pay. [Learn more](https://github.com/) |
+💰 **Free-to-start** so you can enjoy necessary features for free without having to pay. [Learn more](https://github.com/)
 
 💻 **Friendly UI** so everyone can understand.
 
