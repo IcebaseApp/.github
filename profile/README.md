@@ -1,3 +1,2 @@
-<body align="center">
-
+<center>
 <h1>Icebase Software</h1>
