@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/81032902/150001869-e0a402b1-b968-4d14-a816-2dbaa16d12f6.png" height="80" length="80">
 
-# Icebase Technologies
+# Icebase LTD
 
 Here at Icebase Technologies, we release apps designed for your products and software.
 
