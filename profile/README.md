@@ -41,8 +41,7 @@ Here at Icebase Technologies, we release apps designed for your products and sof
 ## 💬 Bugs and Support
 (Coming Soon)
 
-## 📚 Versions
+## 📚 Applications
 
-Homepage  **V1.1**
-
-Web App  **V0.0**
+> Web
+**Stable: https://icebase.space/app
