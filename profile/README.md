@@ -39,9 +39,10 @@ Here at Icebase Technologies, we release apps designed for your products and sof
 <br />
 
 ## 💬 Bugs and Support
-(Coming Soon)
+Exploits should not be shared
 
 ## 📚 Applications
 
-> Web
-**Stable: https://icebase.space/app
+> Browser Applications
+
+[Stable](https://icebase.space/app)
