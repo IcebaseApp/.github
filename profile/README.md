@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/81032902/150001869-e0a402b1-b968-4d14-a816-2dbaa16d12f6.png" height="80" length="80">
 
-# Icebase Technologies Ltd
+# Icebase Technologies
 
 Here at Icebase Technologies, we release apps designed for your products and software.
 
@@ -25,9 +25,9 @@ Here at Icebase Technologies, we release apps designed for your products and sof
 ## 🚀 Features
 
 
-🚫 **No tracking** data is collected from you. [Learn more](https://github.com/)
+🚫 **No tracking** data is collected from you. 
 
-💰 **Free-to-start** so you can enjoy necessary features for free without having to pay. [Learn more](https://github.com/)
+💰 **Free-to-start** so you can enjoy necessary features for free without having to pay. 
 
 💻 **Friendly UI** so everyone can understand.
 
@@ -39,7 +39,7 @@ Here at Icebase Technologies, we release apps designed for your products and sof
 <br />
 
 ## 💬 Bugs and Support
-Exploits should not be shared
+Exploits should not be shared and immediately reported.
 
 ## 📚 Applications
 
