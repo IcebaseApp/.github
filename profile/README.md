@@ -8,7 +8,7 @@
 
 # Icebase Technologies
 
-Here at Icebase Technologies, we release apps designed for your products and software.
+Here at Icebase Technologies, we build technology to make entrepreneurism effortless for everyone.
 
 [![Discord](https://discordapp.com/api/guilds/923762273510641664/widget.png?style=shield)](https://discord.gg/uhatAmEuW7)
 
