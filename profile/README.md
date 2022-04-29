@@ -1,2 +1,2 @@
 <center>
- <h1>Icebase</h1>
+ <h2>Icebase</h2>
